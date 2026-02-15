@@ -94,7 +94,7 @@ The repository contains detailed explanations of:
 
 ## Important Notes
 
-- This is a documentation repository, not a code implementation
-- The README describes this as a "production-grade rate limiting system implemented in Python using Django" but the actual implementation code is NOT present in the repository - only documentation exists
-- Changes should focus on improving educational content and clarity
-- No runtime testing or validation is needed beyond markdown correctness
+- This repository currently contains **documentation only** (no implementation code)
+- The README and documentation describe rate limiting concepts, algorithms, and how to implement them, but the actual Python/Django code is not present in this repository
+- Focus changes on improving educational content, clarity, and technical accuracy
+- No runtime testing, builds, or CI/CD validation is needed - only verify markdown syntax and correctness
